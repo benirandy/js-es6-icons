@@ -1,0 +1,29 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ }
+ 
+ body {
+    background-color: rgb(131, 55, 55);
+ }
+ 
+ header {
+    background-color: #9b9f90;
+    align-items: center;
+    justify-content: center;
+ }
+ 
+ header {
+    background-color: rgb(111, 82, 82);
+ }
+ 
+ h1 {
+    color: #29dddd;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+ 
+ }
+ 
+ .btn-click {
+    padding: 4% 38%;
+ }
